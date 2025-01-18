@@ -1,0 +1,3971 @@
+{
+    "data": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": 7707,
+                "drug_name": "Zilganersen (ION373)",
+                "clinical_trial_id": "NCT04849741",
+                "has_trial_insight_page": 1,
+                "indication": "Alexander disease",
+                "label": "Phase 1",
+                "value": "phase1",
+                "simplified_stage": "phase1",
+                "stageid": 2,
+                "stage_name": "Phase 1",
+                "date": "2024-10-01",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/IONS\/news\/230615",
+                "note": "Fast track designation granted by FDA, noted October 1, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 173,
+                "company_ticker": "IONS",
+                "company_name": "Ionis Pharmaceuticals Inc.",
+                "company_price": "31.4300",
+                "company_change": -0.85,
+                "company_percent_change": -2.63,
+                "company_optionable": 1,
+                "company_number_of_shares": 157897287,
+                "price_change_sparkline": [
+                    [
+                        36.1,
+                        1733115600
+                    ],
+                    [
+                        35.81,
+                        1733202000
+                    ],
+                    [
+                        37.15,
+                        1733288400
+                    ],
+                    [
+                        36.75,
+                        1733374800
+                    ],
+                    [
+                        38.11,
+                        1733461200
+                    ],
+                    [
+                        38.58,
+                        1733720400
+                    ],
+                    [
+                        38.26,
+                        1733806800
+                    ],
+                    [
+                        37.99,
+                        1733893200
+                    ],
+                    [
+                        37.01,
+                        1733979600
+                    ],
+                    [
+                        36.61,
+                        1734066000
+                    ],
+                    [
+                        38.1,
+                        1734325200
+                    ],
+                    [
+                        37.68,
+                        1734411600
+                    ],
+                    [
+                        36.25,
+                        1734498000
+                    ],
+                    [
+                        35.59,
+                        1734584400
+                    ],
+                    [
+                        35.63,
+                        1734670800
+                    ],
+                    [
+                        36.08,
+                        1734930000
+                    ],
+                    [
+                        36.53,
+                        1735016400
+                    ],
+                    [
+                        36.33,
+                        1735189200
+                    ],
+                    [
+                        35.91,
+                        1735275600
+                    ],
+                    [
+                        34.92,
+                        1735534800
+                    ],
+                    [
+                        34.96,
+                        1735621200
+                    ],
+                    [
+                        34.69,
+                        1735794000
+                    ],
+                    [
+                        34.81,
+                        1735880400
+                    ],
+                    [
+                        34.1,
+                        1736139600
+                    ],
+                    [
+                        34.97,
+                        1736226000
+                    ],
+                    [
+                        34.1,
+                        1736312400
+                    ],
+                    [
+                        33.46,
+                        1736485200
+                    ],
+                    [
+                        34.94,
+                        1736744400
+                    ],
+                    [
+                        32.69,
+                        1736830800
+                    ],
+                    [
+                        33.21,
+                        1736917200
+                    ],
+                    [
+                        32.28,
+                        1737003600
+                    ],
+                    [
+                        31.43,
+                        1737090000
+                    ]
+                ],
+                "statuses": [
+                    {
+                        "label": "Fast Track Designation (FTD)",
+                        "abbreviation": "FTD",
+                        "description": "Fast Track Designation (FTD)",
+                        "description_html": "<p>Fast Track Designation (FTD)<\/p>\n"
+                    }
+                ]
+            },
+            {
+                "id": 6853,
+                "drug_name": "Rhenium-186 NanoLiposome (186 RNL) - (ReSPECT-GBM)",
+                "clinical_trial_id": "NCT01906385",
+                "has_trial_insight_page": 0,
+                "indication": "Glioma",
+                "label": "Phase 2b",
+                "value": "phase2b",
+                "simplified_stage": "phase2",
+                "stageid": 7,
+                "stage_name": "Phase 2b",
+                "date": "2024-10-01",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/PSTV\/news\/230629",
+                "note": "Phase 2b data from CNS reported a statistically significant reduction in tumor volume rate change was seen in tumors receiving > 100 Gy absorbed dose, noted October 1, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 688,
+                "company_ticker": "PSTV",
+                "company_name": "PLUS THERAPEUTICS Inc.",
+                "company_price": "1.1700",
+                "company_change": -0.020000000000000018,
+                "company_percent_change": -1.69,
+                "company_optionable": 0,
+                "company_number_of_shares": 5896333,
+                "price_change_sparkline": [
+                    [
+                        1.29,
+                        1733115600
+                    ],
+                    [
+                        1.34,
+                        1733202000
+                    ],
+                    [
+                        1.33,
+                        1733288400
+                    ],
+                    [
+                        1.34,
+                        1733374800
+                    ],
+                    [
+                        1.39,
+                        1733461200
+                    ],
+                    [
+                        1.35,
+                        1733720400
+                    ],
+                    [
+                        1.305,
+                        1733806800
+                    ],
+                    [
+                        1.35,
+                        1733893200
+                    ],
+                    [
+                        1.33,
+                        1733979600
+                    ],
+                    [
+                        1.27,
+                        1734066000
+                    ],
+                    [
+                        1.17,
+                        1734325200
+                    ],
+                    [
+                        1.07,
+                        1734411600
+                    ],
+                    [
+                        1,
+                        1734498000
+                    ],
+                    [
+                        0.99,
+                        1734584400
+                    ],
+                    [
+                        1.09,
+                        1734670800
+                    ],
+                    [
+                        1.07,
+                        1734930000
+                    ],
+                    [
+                        1.08,
+                        1735016400
+                    ],
+                    [
+                        1.08,
+                        1735189200
+                    ],
+                    [
+                        1.16,
+                        1735275600
+                    ],
+                    [
+                        1.15,
+                        1735534800
+                    ],
+                    [
+                        1.15,
+                        1735621200
+                    ],
+                    [
+                        1.18,
+                        1735794000
+                    ],
+                    [
+                        1.23,
+                        1735880400
+                    ],
+                    [
+                        1.26,
+                        1736139600
+                    ],
+                    [
+                        1.24,
+                        1736226000
+                    ],
+                    [
+                        1.2,
+                        1736312400
+                    ],
+                    [
+                        1.16,
+                        1736485200
+                    ],
+                    [
+                        1.14,
+                        1736744400
+                    ],
+                    [
+                        1.17,
+                        1736830800
+                    ],
+                    [
+                        1.2007,
+                        1736917200
+                    ],
+                    [
+                        1.1901,
+                        1737003600
+                    ],
+                    [
+                        1.17,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 10560,
+                "drug_name": "ATH434-202 - (biomarker data)",
+                "clinical_trial_id": null,
+                "has_trial_insight_page": 0,
+                "indication": "Multiple System Atrophy (MSA)",
+                "label": "Phase 2",
+                "value": "phase2",
+                "simplified_stage": "phase2",
+                "stageid": 6,
+                "stage_name": "Phase 2",
+                "date": "2024-10-02",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/ATHE\/news\/230930",
+                "note": "Phase 2 interim data from MDS reported that at 6 months all participants exhibited brain volume declines consistent with MSA progression; however, the clinical responders maintained stable brain volumes at 12 months, noted October 2, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 782,
+                "company_ticker": "ATHE",
+                "company_name": "Alterity Therapeutics Limited",
+                "company_price": "3.4200",
+                "company_change": 0.06,
+                "company_percent_change": 1.79,
+                "company_optionable": 0,
+                "company_number_of_shares": 8742763,
+                "price_change_sparkline": [
+                    [
+                        1.52,
+                        1733115600
+                    ],
+                    [
+                        1.6,
+                        1733202000
+                    ],
+                    [
+                        1.8798,
+                        1733288400
+                    ],
+                    [
+                        1.94,
+                        1733374800
+                    ],
+                    [
+                        2.15,
+                        1733461200
+                    ],
+                    [
+                        2.48,
+                        1733720400
+                    ],
+                    [
+                        2.32,
+                        1733806800
+                    ],
+                    [
+                        2.27,
+                        1733893200
+                    ],
+                    [
+                        2.22,
+                        1733979600
+                    ],
+                    [
+                        2.4,
+                        1734066000
+                    ],
+                    [
+                        2.31,
+                        1734325200
+                    ],
+                    [
+                        2.27,
+                        1734411600
+                    ],
+                    [
+                        2.16,
+                        1734498000
+                    ],
+                    [
+                        2.1,
+                        1734584400
+                    ],
+                    [
+                        2.2,
+                        1734670800
+                    ],
+                    [
+                        2.4,
+                        1734930000
+                    ],
+                    [
+                        2.45,
+                        1735016400
+                    ],
+                    [
+                        3.149,
+                        1735189200
+                    ],
+                    [
+                        3.14,
+                        1735275600
+                    ],
+                    [
+                        3.5,
+                        1735534800
+                    ],
+                    [
+                        3.31,
+                        1735621200
+                    ],
+                    [
+                        3.73,
+                        1735794000
+                    ],
+                    [
+                        4.26,
+                        1735880400
+                    ],
+                    [
+                        3.99,
+                        1736139600
+                    ],
+                    [
+                        3.72,
+                        1736226000
+                    ],
+                    [
+                        3.34,
+                        1736312400
+                    ],
+                    [
+                        3.34,
+                        1736485200
+                    ],
+                    [
+                        3.45,
+                        1736744400
+                    ],
+                    [
+                        3.31,
+                        1736830800
+                    ],
+                    [
+                        3.313,
+                        1736917200
+                    ],
+                    [
+                        3.36,
+                        1737003600
+                    ],
+                    [
+                        3.42,
+                        1737090000
+                    ]
+                ],
+                "statuses": [
+                    {
+                        "label": "Orphan Drug Designation (ODD)",
+                        "abbreviation": "ODD",
+                        "description": "Orphan Drug Designation (ODD)",
+                        "description_html": "<p>Orphan Drug Designation (ODD)<\/p>\n"
+                    }
+                ]
+            },
+            {
+                "id": 6194,
+                "drug_name": "PDS0101 and chemoradiotherapy - (IMMUNOCERV)",
+                "clinical_trial_id": "NCT04580771",
+                "has_trial_insight_page": 1,
+                "indication": "Cervical cancer",
+                "label": "Phase 2",
+                "value": "phase2",
+                "simplified_stage": "phase2",
+                "stageid": 6,
+                "stage_name": "Phase 2",
+                "date": "2024-10-02",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/PDSB\/news\/230937",
+                "note": "Phase 2 data presented at ASTRO showed 100% 36-month overall survival (OS) and progression-free survival (PFS) rates in fully treated patients. Notably, 88% of patients achieved a complete metabolic response, with the treatment demonstrating a solid safety profile and minimal toxicity, noted October 2, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 643,
+                "company_ticker": "PDSB",
+                "company_name": "PDS Biotechnology Corporation",
+                "company_price": "1.4500",
+                "company_change": 0.02,
+                "company_percent_change": 1.4,
+                "company_optionable": 1,
+                "company_number_of_shares": 37409137,
+                "price_change_sparkline": [
+                    [
+                        2.15,
+                        1733115600
+                    ],
+                    [
+                        2.25,
+                        1733202000
+                    ],
+                    [
+                        2.15,
+                        1733288400
+                    ],
+                    [
+                        2,
+                        1733374800
+                    ],
+                    [
+                        2.17,
+                        1733461200
+                    ],
+                    [
+                        2.19,
+                        1733720400
+                    ],
+                    [
+                        2.14,
+                        1733806800
+                    ],
+                    [
+                        2.08,
+                        1733893200
+                    ],
+                    [
+                        1.9,
+                        1733979600
+                    ],
+                    [
+                        1.84,
+                        1734066000
+                    ],
+                    [
+                        1.935,
+                        1734325200
+                    ],
+                    [
+                        1.96,
+                        1734411600
+                    ],
+                    [
+                        1.805,
+                        1734498000
+                    ],
+                    [
+                        1.75,
+                        1734584400
+                    ],
+                    [
+                        1.65,
+                        1734670800
+                    ],
+                    [
+                        1.67,
+                        1734930000
+                    ],
+                    [
+                        1.64,
+                        1735016400
+                    ],
+                    [
+                        1.77,
+                        1735189200
+                    ],
+                    [
+                        1.71,
+                        1735275600
+                    ],
+                    [
+                        1.69,
+                        1735534800
+                    ],
+                    [
+                        1.63,
+                        1735621200
+                    ],
+                    [
+                        1.73,
+                        1735794000
+                    ],
+                    [
+                        1.8,
+                        1735880400
+                    ],
+                    [
+                        1.71,
+                        1736139600
+                    ],
+                    [
+                        1.68,
+                        1736226000
+                    ],
+                    [
+                        1.57,
+                        1736312400
+                    ],
+                    [
+                        1.41,
+                        1736485200
+                    ],
+                    [
+                        1.42,
+                        1736744400
+                    ],
+                    [
+                        1.39,
+                        1736830800
+                    ],
+                    [
+                        1.45,
+                        1736917200
+                    ],
+                    [
+                        1.43,
+                        1737003600
+                    ],
+                    [
+                        1.45,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 11432,
+                "drug_name": "UGN-103 - (UTOPIA)",
+                "clinical_trial_id": "NCT06331299",
+                "has_trial_insight_page": 0,
+                "indication": "Low-Grade Intermediate-Risk Non-Muscle Invasive Bladder Cancer",
+                "label": "Phase 3",
+                "value": "phase3",
+                "simplified_stage": "phase3",
+                "stageid": 9,
+                "stage_name": "Phase 3",
+                "date": "2024-10-02",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/URGN\/news\/230954",
+                "note": "Phase 3 trial dosing initiated, noted October 2, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 412,
+                "company_ticker": "URGN",
+                "company_name": "UroGen Pharma Ltd.",
+                "company_price": "10.2700",
+                "company_change": -0.25,
+                "company_percent_change": -2.38,
+                "company_optionable": 1,
+                "company_number_of_shares": 42199414,
+                "price_change_sparkline": [
+                    [
+                        12.88,
+                        1733115600
+                    ],
+                    [
+                        12.34,
+                        1733202000
+                    ],
+                    [
+                        12.46,
+                        1733288400
+                    ],
+                    [
+                        12.21,
+                        1733374800
+                    ],
+                    [
+                        12.29,
+                        1733461200
+                    ],
+                    [
+                        12.17,
+                        1733720400
+                    ],
+                    [
+                        12.04,
+                        1733806800
+                    ],
+                    [
+                        11.44,
+                        1733893200
+                    ],
+                    [
+                        11.47,
+                        1733979600
+                    ],
+                    [
+                        11.35,
+                        1734066000
+                    ],
+                    [
+                        11.3,
+                        1734325200
+                    ],
+                    [
+                        11.33,
+                        1734411600
+                    ],
+                    [
+                        10.79,
+                        1734498000
+                    ],
+                    [
+                        10.71,
+                        1734584400
+                    ],
+                    [
+                        10.64,
+                        1734670800
+                    ],
+                    [
+                        10.71,
+                        1734930000
+                    ],
+                    [
+                        10.82,
+                        1735016400
+                    ],
+                    [
+                        11.04,
+                        1735189200
+                    ],
+                    [
+                        10.76,
+                        1735275600
+                    ],
+                    [
+                        10.52,
+                        1735534800
+                    ],
+                    [
+                        10.65,
+                        1735621200
+                    ],
+                    [
+                        10.7,
+                        1735794000
+                    ],
+                    [
+                        11.21,
+                        1735880400
+                    ],
+                    [
+                        11.01,
+                        1736139600
+                    ],
+                    [
+                        11.08,
+                        1736226000
+                    ],
+                    [
+                        11.04,
+                        1736312400
+                    ],
+                    [
+                        10.24,
+                        1736485200
+                    ],
+                    [
+                        10.18,
+                        1736744400
+                    ],
+                    [
+                        9.93,
+                        1736830800
+                    ],
+                    [
+                        10.39,
+                        1736917200
+                    ],
+                    [
+                        10.52,
+                        1737003600
+                    ],
+                    [
+                        10.27,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 7529,
+                "drug_name": "Paxalisib (GDC-0084) with radiotherapy",
+                "clinical_trial_id": "NCT04192981",
+                "has_trial_insight_page": 0,
+                "indication": "Brain Metastases",
+                "label": "Phase 1",
+                "value": "phase1",
+                "simplified_stage": "phase1",
+                "stageid": 2,
+                "stage_name": "Phase 1",
+                "date": "2024-10-02",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/KZIA\/news\/231005",
+                "note": "Phase 1 data at the 2024 ASTRO Annual Meeting showed a 67% partial response (PR) in patients treated with 45mg paxalisib combined with radiotherapy, noted October 2, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 467,
+                "company_ticker": "KZIA",
+                "company_name": "Kazia Therapeutics Limited",
+                "company_price": "1.4150",
+                "company_change": -0.050000000000000044,
+                "company_percent_change": -3.08,
+                "company_optionable": 1,
+                "company_number_of_shares": 3328508,
+                "price_change_sparkline": [
+                    [
+                        5,
+                        1733115600
+                    ],
+                    [
+                        4.94,
+                        1733202000
+                    ],
+                    [
+                        4.525,
+                        1733288400
+                    ],
+                    [
+                        4.48,
+                        1733374800
+                    ],
+                    [
+                        4.38,
+                        1733461200
+                    ],
+                    [
+                        3.7,
+                        1733720400
+                    ],
+                    [
+                        3.59,
+                        1733806800
+                    ],
+                    [
+                        3.67,
+                        1733893200
+                    ],
+                    [
+                        3.67,
+                        1733979600
+                    ],
+                    [
+                        3.55,
+                        1734066000
+                    ],
+                    [
+                        3.33,
+                        1734325200
+                    ],
+                    [
+                        3.4,
+                        1734411600
+                    ],
+                    [
+                        2.85,
+                        1734498000
+                    ],
+                    [
+                        3.03,
+                        1734584400
+                    ],
+                    [
+                        3.02,
+                        1734670800
+                    ],
+                    [
+                        2.97,
+                        1734930000
+                    ],
+                    [
+                        2.91,
+                        1735016400
+                    ],
+                    [
+                        3.02,
+                        1735189200
+                    ],
+                    [
+                        3.07,
+                        1735275600
+                    ],
+                    [
+                        3.1,
+                        1735534800
+                    ],
+                    [
+                        1.77,
+                        1735621200
+                    ],
+                    [
+                        1.745,
+                        1735794000
+                    ],
+                    [
+                        1.8,
+                        1735880400
+                    ],
+                    [
+                        1.8,
+                        1736139600
+                    ],
+                    [
+                        1.75,
+                        1736226000
+                    ],
+                    [
+                        1.69,
+                        1736312400
+                    ],
+                    [
+                        1.58,
+                        1736485200
+                    ],
+                    [
+                        1.51,
+                        1736744400
+                    ],
+                    [
+                        1.53,
+                        1736830800
+                    ],
+                    [
+                        1.55,
+                        1736917200
+                    ],
+                    [
+                        1.46,
+                        1737003600
+                    ],
+                    [
+                        1.415,
+                        1737090000
+                    ]
+                ],
+                "statuses": [
+                    {
+                        "label": "Fast Track Designation (FTD)",
+                        "abbreviation": "FTD",
+                        "description": "Fast Track Designation (FTD)",
+                        "description_html": "<p>Fast Track Designation (FTD)<\/p>\n"
+                    }
+                ]
+            },
+            {
+                "id": 10702,
+                "drug_name": "Opdivo (nivolumab) - (CheckMate -77T)",
+                "clinical_trial_id": "NCT04025879",
+                "has_trial_insight_page": 0,
+                "indication": "Non-metastatic non-small cell lung cancer",
+                "label": "Approved",
+                "value": "approved",
+                "simplified_stage": "phase6",
+                "stageid": 15,
+                "stage_name": "Approved",
+                "date": "2024-10-03",
+                "link": "https:\/\/news.bms.com\/news\/details\/2024\/U.S.-Food-and-Drug-Administration-Approves-Perioperative-Treatment-of-Neoadjuvant-Opdivo-nivolumab-and-Chemotherapy-Followed-by-Surgery-and-Adjuvant-Single-Agent-Opdivo-for-Resectable-Non-Small-Cell-Lung-Cancer-NSCLC\/default.aspx",
+                "note": "Approved October 3, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 376,
+                "company_ticker": "BMY",
+                "company_name": "Bristol-Myers Squibb Company",
+                "company_price": "56.2900",
+                "company_change": -0.08999999999999997,
+                "company_percent_change": -0.16000000000000003,
+                "company_optionable": 1,
+                "company_number_of_shares": 2028176674,
+                "price_change_sparkline": [
+                    [
+                        59.2901870956461,
+                        1733115600
+                    ],
+                    [
+                        58.053738415807,
+                        1733202000
+                    ],
+                    [
+                        57.7372075537681,
+                        1733288400
+                    ],
+                    [
+                        58.2021122573877,
+                        1733374800
+                    ],
+                    [
+                        58.7362580870782,
+                        1733461200
+                    ],
+                    [
+                        58.0735215946844,
+                        1733720400
+                    ],
+                    [
+                        57.4899178178003,
+                        1733806800
+                    ],
+                    [
+                        56.0358541703095,
+                        1733893200
+                    ],
+                    [
+                        55.6698653610771,
+                        1733979600
+                    ],
+                    [
+                        55.1752858891415,
+                        1734066000
+                    ],
+                    [
+                        55.2643101940899,
+                        1734325200
+                    ],
+                    [
+                        57.0250131141808,
+                        1734411600
+                    ],
+                    [
+                        56.223794369645,
+                        1734498000
+                    ],
+                    [
+                        55.6896485399545,
+                        1734584400
+                    ],
+                    [
+                        56.708482252142,
+                        1734670800
+                    ],
+                    [
+                        56.9557719881098,
+                        1734930000
+                    ],
+                    [
+                        57.1338205980066,
+                        1735016400
+                    ],
+                    [
+                        57.3712187445358,
+                        1735189200
+                    ],
+                    [
+                        57.0546878824969,
+                        1735275600
+                    ],
+                    [
+                        55.4522503934254,
+                        1735534800
+                    ],
+                    [
+                        55.9468298653611,
+                        1735621200
+                    ],
+                    [
+                        56.1743364224515,
+                        1735794000
+                    ],
+                    [
+                        56.57,
+                        1735880400
+                    ],
+                    [
+                        56.68,
+                        1736139600
+                    ],
+                    [
+                        57.14,
+                        1736226000
+                    ],
+                    [
+                        56.81,
+                        1736312400
+                    ],
+                    [
+                        55.83,
+                        1736485200
+                    ],
+                    [
+                        55.36,
+                        1736744400
+                    ],
+                    [
+                        55.74,
+                        1736830800
+                    ],
+                    [
+                        55.91,
+                        1736917200
+                    ],
+                    [
+                        56.38,
+                        1737003600
+                    ],
+                    [
+                        56.29,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 11368,
+                "drug_name": "Obefazimod",
+                "clinical_trial_id": null,
+                "has_trial_insight_page": 0,
+                "indication": "Ulcerative Colitis",
+                "label": "Phase 2b",
+                "value": "phase2b",
+                "simplified_stage": "phase2",
+                "stageid": 7,
+                "stage_name": "Phase 2b",
+                "date": "2024-10-03",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/ABVX\/news\/231194",
+                "note": "Phase 2b OLM data reported clinical remission and a safety profile consistent with prior studies of oral, once-daily obefazimod when administered at a reduced dose of 25mg for up to an additional two years, noted October 3, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 2304,
+                "company_ticker": "ABVX",
+                "company_name": "Abivax SA",
+                "company_price": "6.1600",
+                "company_change": -0.06999999999999995,
+                "company_percent_change": -1.12,
+                "company_optionable": 0,
+                "company_number_of_shares": 62917479,
+                "price_change_sparkline": [
+                    [
+                        8.48,
+                        1733115600
+                    ],
+                    [
+                        8.3,
+                        1733202000
+                    ],
+                    [
+                        8.89,
+                        1733288400
+                    ],
+                    [
+                        8.33,
+                        1733374800
+                    ],
+                    [
+                        8.81,
+                        1733461200
+                    ],
+                    [
+                        8.5,
+                        1733720400
+                    ],
+                    [
+                        8.58,
+                        1733806800
+                    ],
+                    [
+                        7.94,
+                        1733893200
+                    ],
+                    [
+                        7.65,
+                        1733979600
+                    ],
+                    [
+                        7.11,
+                        1734066000
+                    ],
+                    [
+                        7.9,
+                        1734325200
+                    ],
+                    [
+                        7.94,
+                        1734411600
+                    ],
+                    [
+                        7.8,
+                        1734498000
+                    ],
+                    [
+                        7.76,
+                        1734584400
+                    ],
+                    [
+                        7.65,
+                        1734670800
+                    ],
+                    [
+                        7.35,
+                        1734930000
+                    ],
+                    [
+                        7.6,
+                        1735016400
+                    ],
+                    [
+                        7.66,
+                        1735189200
+                    ],
+                    [
+                        7.12,
+                        1735275600
+                    ],
+                    [
+                        7.05,
+                        1735534800
+                    ],
+                    [
+                        7.32,
+                        1735621200
+                    ],
+                    [
+                        7.29,
+                        1735794000
+                    ],
+                    [
+                        7.45,
+                        1735880400
+                    ],
+                    [
+                        7.27,
+                        1736139600
+                    ],
+                    [
+                        6.98,
+                        1736226000
+                    ],
+                    [
+                        6.68,
+                        1736312400
+                    ],
+                    [
+                        6.38,
+                        1736485200
+                    ],
+                    [
+                        6.5,
+                        1736744400
+                    ],
+                    [
+                        6.15,
+                        1736830800
+                    ],
+                    [
+                        6.29,
+                        1736917200
+                    ],
+                    [
+                        6.23,
+                        1737003600
+                    ],
+                    [
+                        6.16,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 11234,
+                "drug_name": "del-desiran (AOC 1001) - (HARBOR)",
+                "clinical_trial_id": null,
+                "has_trial_insight_page": 0,
+                "indication": "Myotonic dystrophy type 1 (DM1)",
+                "label": "Phase 3",
+                "value": "phase3",
+                "simplified_stage": "phase3",
+                "stageid": 9,
+                "stage_name": "Phase 3",
+                "date": "2024-10-03",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/RNA\/news\/231222",
+                "note": "Phase 3 partial clinical hold removed by the FDA, noted  October 3, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 773,
+                "company_ticker": "RNA",
+                "company_name": "Avidity Biosciences Inc.",
+                "company_price": "28.9200",
+                "company_change": 0.63,
+                "company_percent_change": 2.23,
+                "company_optionable": 1,
+                "company_number_of_shares": 119309317,
+                "price_change_sparkline": [
+                    [
+                        41.3,
+                        1733115600
+                    ],
+                    [
+                        38.48,
+                        1733202000
+                    ],
+                    [
+                        37.93,
+                        1733288400
+                    ],
+                    [
+                        36.88,
+                        1733374800
+                    ],
+                    [
+                        38.27,
+                        1733461200
+                    ],
+                    [
+                        36.85,
+                        1733720400
+                    ],
+                    [
+                        36.1,
+                        1733806800
+                    ],
+                    [
+                        35.58,
+                        1733893200
+                    ],
+                    [
+                        33.76,
+                        1733979600
+                    ],
+                    [
+                        32.49,
+                        1734066000
+                    ],
+                    [
+                        33.39,
+                        1734325200
+                    ],
+                    [
+                        32.74,
+                        1734411600
+                    ],
+                    [
+                        30.7,
+                        1734498000
+                    ],
+                    [
+                        31.05,
+                        1734584400
+                    ],
+                    [
+                        31.82,
+                        1734670800
+                    ],
+                    [
+                        31.64,
+                        1734930000
+                    ],
+                    [
+                        31.35,
+                        1735016400
+                    ],
+                    [
+                        31.12,
+                        1735189200
+                    ],
+                    [
+                        30.11,
+                        1735275600
+                    ],
+                    [
+                        29.18,
+                        1735534800
+                    ],
+                    [
+                        29.08,
+                        1735621200
+                    ],
+                    [
+                        31.18,
+                        1735794000
+                    ],
+                    [
+                        30.5,
+                        1735880400
+                    ],
+                    [
+                        31.42,
+                        1736139600
+                    ],
+                    [
+                        30.79,
+                        1736226000
+                    ],
+                    [
+                        29.93,
+                        1736312400
+                    ],
+                    [
+                        29.46,
+                        1736485200
+                    ],
+                    [
+                        28.41,
+                        1736744400
+                    ],
+                    [
+                        27.05,
+                        1736830800
+                    ],
+                    [
+                        27.87,
+                        1736917200
+                    ],
+                    [
+                        28.29,
+                        1737003600
+                    ],
+                    [
+                        28.92,
+                        1737090000
+                    ]
+                ],
+                "statuses": [
+                    {
+                        "label": "Breakthrough Therapy Designation (BTD)",
+                        "abbreviation": "BTD",
+                        "description": "Breakthrough Therapy Designation (BTD)",
+                        "description_html": "<p>Breakthrough Therapy Designation (BTD)<\/p>\n"
+                    }
+                ]
+            },
+            {
+                "id": 6446,
+                "drug_name": "Donidalorsen (IONIS-PKK-LRx) - (OASIS-HAE)",
+                "clinical_trial_id": "NCT05139810",
+                "has_trial_insight_page": 1,
+                "indication": "Hereditary Angioedema (HAE)",
+                "label": "Phase 2",
+                "value": "phase2",
+                "simplified_stage": "phase2",
+                "stageid": 6,
+                "stage_name": "Phase 2",
+                "date": "2024-10-03",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/IONS\/news\/231217",
+                "note": "Phase 2 new 3 year OLE data that continues to demonstrate donidalorsen potential to deliver significant and sustained reductions in HAE attacks up to three years with monthly or every two-month dosing , noted October 3, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 2306,
+                "company_ticker": "THTX",
+                "company_name": "Theratechnologies Inc.",
+                "company_price": "1.7200",
+                "company_change": -0.010000000000000009,
+                "company_percent_change": -0.5800000000000001,
+                "company_optionable": 1,
+                "company_number_of_shares": 45980019,
+                "price_change_sparkline": [
+                    [
+                        1.29,
+                        1733115600
+                    ],
+                    [
+                        1.325,
+                        1733202000
+                    ],
+                    [
+                        1.42,
+                        1733288400
+                    ],
+                    [
+                        1.5,
+                        1733374800
+                    ],
+                    [
+                        1.42,
+                        1733461200
+                    ],
+                    [
+                        1.55,
+                        1733720400
+                    ],
+                    [
+                        1.4,
+                        1733806800
+                    ],
+                    [
+                        1.45,
+                        1733893200
+                    ],
+                    [
+                        1.42,
+                        1733979600
+                    ],
+                    [
+                        1.52,
+                        1734066000
+                    ],
+                    [
+                        1.64,
+                        1734325200
+                    ],
+                    [
+                        1.62,
+                        1734411600
+                    ],
+                    [
+                        1.77,
+                        1734498000
+                    ],
+                    [
+                        1.66,
+                        1734584400
+                    ],
+                    [
+                        1.79,
+                        1734670800
+                    ],
+                    [
+                        1.76,
+                        1734930000
+                    ],
+                    [
+                        1.8262,
+                        1735016400
+                    ],
+                    [
+                        1.83,
+                        1735189200
+                    ],
+                    [
+                        1.79,
+                        1735275600
+                    ],
+                    [
+                        1.8,
+                        1735534800
+                    ],
+                    [
+                        1.81,
+                        1735621200
+                    ],
+                    [
+                        1.84,
+                        1735794000
+                    ],
+                    [
+                        1.86,
+                        1735880400
+                    ],
+                    [
+                        2.03,
+                        1736139600
+                    ],
+                    [
+                        2.045,
+                        1736226000
+                    ],
+                    [
+                        1.995,
+                        1736312400
+                    ],
+                    [
+                        1.87,
+                        1736485200
+                    ],
+                    [
+                        1.66,
+                        1736744400
+                    ],
+                    [
+                        1.72,
+                        1736830800
+                    ],
+                    [
+                        1.8,
+                        1736917200
+                    ],
+                    [
+                        1.73,
+                        1737003600
+                    ],
+                    [
+                        1.72,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 6446,
+                "drug_name": "Donidalorsen (IONIS-PKK-LRx) - (OASIS-HAE)",
+                "clinical_trial_id": "NCT05139810",
+                "has_trial_insight_page": 1,
+                "indication": "Hereditary Angioedema (HAE)",
+                "label": "Phase 2",
+                "value": "phase2",
+                "simplified_stage": "phase2",
+                "stageid": 6,
+                "stage_name": "Phase 2",
+                "date": "2024-10-03",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/IONS\/news\/231217",
+                "note": "Phase 2 new 3 year OLE data that continues to demonstrate donidalorsen potential to deliver significant and sustained reductions in HAE attacks up to three years with monthly or every two-month dosing , noted October 3, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 173,
+                "company_ticker": "IONS",
+                "company_name": "Ionis Pharmaceuticals Inc.",
+                "company_price": "31.4300",
+                "company_change": -0.85,
+                "company_percent_change": -2.63,
+                "company_optionable": 1,
+                "company_number_of_shares": 157897287,
+                "price_change_sparkline": [
+                    [
+                        36.1,
+                        1733115600
+                    ],
+                    [
+                        35.81,
+                        1733202000
+                    ],
+                    [
+                        37.15,
+                        1733288400
+                    ],
+                    [
+                        36.75,
+                        1733374800
+                    ],
+                    [
+                        38.11,
+                        1733461200
+                    ],
+                    [
+                        38.58,
+                        1733720400
+                    ],
+                    [
+                        38.26,
+                        1733806800
+                    ],
+                    [
+                        37.99,
+                        1733893200
+                    ],
+                    [
+                        37.01,
+                        1733979600
+                    ],
+                    [
+                        36.61,
+                        1734066000
+                    ],
+                    [
+                        38.1,
+                        1734325200
+                    ],
+                    [
+                        37.68,
+                        1734411600
+                    ],
+                    [
+                        36.25,
+                        1734498000
+                    ],
+                    [
+                        35.59,
+                        1734584400
+                    ],
+                    [
+                        35.63,
+                        1734670800
+                    ],
+                    [
+                        36.08,
+                        1734930000
+                    ],
+                    [
+                        36.53,
+                        1735016400
+                    ],
+                    [
+                        36.33,
+                        1735189200
+                    ],
+                    [
+                        35.91,
+                        1735275600
+                    ],
+                    [
+                        34.92,
+                        1735534800
+                    ],
+                    [
+                        34.96,
+                        1735621200
+                    ],
+                    [
+                        34.69,
+                        1735794000
+                    ],
+                    [
+                        34.81,
+                        1735880400
+                    ],
+                    [
+                        34.1,
+                        1736139600
+                    ],
+                    [
+                        34.97,
+                        1736226000
+                    ],
+                    [
+                        34.1,
+                        1736312400
+                    ],
+                    [
+                        33.46,
+                        1736485200
+                    ],
+                    [
+                        34.94,
+                        1736744400
+                    ],
+                    [
+                        32.69,
+                        1736830800
+                    ],
+                    [
+                        33.21,
+                        1736917200
+                    ],
+                    [
+                        32.28,
+                        1737003600
+                    ],
+                    [
+                        31.43,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 6292,
+                "drug_name": "SYN-004 (Ribaxamase)",
+                "clinical_trial_id": "NCT04692181",
+                "has_trial_insight_page": 0,
+                "indication": "Allogeneic hematopoietic cell transplantation (HCT) for the prevention of acute graft-versus-host-disease (aGVHD)",
+                "label": "Phase 1\/2",
+                "value": "phase1.5",
+                "simplified_stage": "phase1",
+                "stageid": 4,
+                "stage_name": "Phase 1\/2",
+                "date": "2024-10-03",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/TOVX\/news\/231244",
+                "note": "Phase 1b\/2 DSMC positive review with 15 SAEs were reported among 10 patients, with the most common SAE being infections and infestations, including sepsis, noted October 3, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 1539,
+                "company_ticker": "TOVX",
+                "company_name": "Theriva Biologics, Inc.",
+                "company_price": "1.4800",
+                "company_change": 0.05,
+                "company_percent_change": 3.5,
+                "company_optionable": 0,
+                "company_number_of_shares": 2782449,
+                "price_change_sparkline": [
+                    [
+                        1.38,
+                        1733115600
+                    ],
+                    [
+                        1.3,
+                        1733202000
+                    ],
+                    [
+                        1.34,
+                        1733288400
+                    ],
+                    [
+                        1.29,
+                        1733374800
+                    ],
+                    [
+                        1.27,
+                        1733461200
+                    ],
+                    [
+                        1.3,
+                        1733720400
+                    ],
+                    [
+                        1.29,
+                        1733806800
+                    ],
+                    [
+                        1.14,
+                        1733893200
+                    ],
+                    [
+                        1.19,
+                        1733979600
+                    ],
+                    [
+                        1.18,
+                        1734066000
+                    ],
+                    [
+                        1.17,
+                        1734325200
+                    ],
+                    [
+                        1.19,
+                        1734411600
+                    ],
+                    [
+                        1.17,
+                        1734498000
+                    ],
+                    [
+                        1.15,
+                        1734584400
+                    ],
+                    [
+                        1.14,
+                        1734670800
+                    ],
+                    [
+                        1.3,
+                        1734930000
+                    ],
+                    [
+                        1.76,
+                        1735016400
+                    ],
+                    [
+                        1.58,
+                        1735189200
+                    ],
+                    [
+                        1.47,
+                        1735275600
+                    ],
+                    [
+                        1.5,
+                        1735534800
+                    ],
+                    [
+                        1.75,
+                        1735621200
+                    ],
+                    [
+                        1.65,
+                        1735794000
+                    ],
+                    [
+                        1.59,
+                        1735880400
+                    ],
+                    [
+                        1.73,
+                        1736139600
+                    ],
+                    [
+                        1.62,
+                        1736226000
+                    ],
+                    [
+                        1.47,
+                        1736312400
+                    ],
+                    [
+                        1.45,
+                        1736485200
+                    ],
+                    [
+                        1.5,
+                        1736744400
+                    ],
+                    [
+                        1.91,
+                        1736830800
+                    ],
+                    [
+                        1.51,
+                        1736917200
+                    ],
+                    [
+                        1.43,
+                        1737003600
+                    ],
+                    [
+                        1.48,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 10909,
+                "drug_name": "CampETEC HBC product, ProMilk 85, C. jejuni CG8421 Challenge strain",
+                "clinical_trial_id": "NCT06122870",
+                "has_trial_insight_page": 0,
+                "indication": "Campylobacter and Enterotoxigenic Escherichia coli (ETEC), Healthy Volunteers",
+                "label": "Phase 2",
+                "value": "phase2",
+                "simplified_stage": "phase2",
+                "stageid": 6,
+                "stage_name": "Phase 2",
+                "date": "2024-10-04",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/IMRN\/news\/231430",
+                "note": "Phase 2 data reported a 10.4% protective efficacy against moderate to severe campylobacteriosis following challenge with Campylobacter compared to the placebo group, noted October 4, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 1077,
+                "company_ticker": "IMRN",
+                "company_name": "Immuron Limited",
+                "company_price": "2.1500",
+                "company_change": 0.17,
+                "company_percent_change": 8.59,
+                "company_optionable": 0,
+                "company_number_of_shares": 5694959,
+                "price_change_sparkline": [
+                    [
+                        1.97,
+                        1733115600
+                    ],
+                    [
+                        1.94,
+                        1733202000
+                    ],
+                    [
+                        2.047,
+                        1733288400
+                    ],
+                    [
+                        2.02,
+                        1733374800
+                    ],
+                    [
+                        2,
+                        1733461200
+                    ],
+                    [
+                        1.97,
+                        1733720400
+                    ],
+                    [
+                        2.0137,
+                        1733806800
+                    ],
+                    [
+                        2.24,
+                        1733893200
+                    ],
+                    [
+                        2.1999,
+                        1733979600
+                    ],
+                    [
+                        2.1253,
+                        1734066000
+                    ],
+                    [
+                        2.1,
+                        1734325200
+                    ],
+                    [
+                        2.15,
+                        1734411600
+                    ],
+                    [
+                        2.01,
+                        1734498000
+                    ],
+                    [
+                        1.995,
+                        1734584400
+                    ],
+                    [
+                        1.96,
+                        1734670800
+                    ],
+                    [
+                        1.9854,
+                        1734930000
+                    ],
+                    [
+                        1.94,
+                        1735016400
+                    ],
+                    [
+                        2.01,
+                        1735189200
+                    ],
+                    [
+                        1.9,
+                        1735275600
+                    ],
+                    [
+                        1.9999,
+                        1735534800
+                    ],
+                    [
+                        1.7,
+                        1735621200
+                    ],
+                    [
+                        1.7758,
+                        1735794000
+                    ],
+                    [
+                        1.91,
+                        1735880400
+                    ],
+                    [
+                        2.0496,
+                        1736139600
+                    ],
+                    [
+                        2.1964,
+                        1736226000
+                    ],
+                    [
+                        2.03,
+                        1736312400
+                    ],
+                    [
+                        1.95,
+                        1736485200
+                    ],
+                    [
+                        1.97,
+                        1736744400
+                    ],
+                    [
+                        2,
+                        1736830800
+                    ],
+                    [
+                        2.08,
+                        1736917200
+                    ],
+                    [
+                        1.98,
+                        1737003600
+                    ],
+                    [
+                        2.15,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 10747,
+                "drug_name": "Neoadjuvant Opdivo (nivolumab) and Chemotherapy",
+                "clinical_trial_id": null,
+                "has_trial_insight_page": 0,
+                "indication": "Stage IIA to IIIB non-small cell lung cancer (NSCLC)",
+                "label": "Approved",
+                "value": "approved",
+                "simplified_stage": "phase6",
+                "stageid": 15,
+                "stage_name": "Approved",
+                "date": "2024-10-04",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/BMY\/news\/231405",
+                "note": "Approved October 4, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 376,
+                "company_ticker": "BMY",
+                "company_name": "Bristol-Myers Squibb Company",
+                "company_price": "56.2900",
+                "company_change": -0.08999999999999997,
+                "company_percent_change": -0.16000000000000003,
+                "company_optionable": 1,
+                "company_number_of_shares": 2028176674,
+                "price_change_sparkline": [
+                    [
+                        59.2901870956461,
+                        1733115600
+                    ],
+                    [
+                        58.053738415807,
+                        1733202000
+                    ],
+                    [
+                        57.7372075537681,
+                        1733288400
+                    ],
+                    [
+                        58.2021122573877,
+                        1733374800
+                    ],
+                    [
+                        58.7362580870782,
+                        1733461200
+                    ],
+                    [
+                        58.0735215946844,
+                        1733720400
+                    ],
+                    [
+                        57.4899178178003,
+                        1733806800
+                    ],
+                    [
+                        56.0358541703095,
+                        1733893200
+                    ],
+                    [
+                        55.6698653610771,
+                        1733979600
+                    ],
+                    [
+                        55.1752858891415,
+                        1734066000
+                    ],
+                    [
+                        55.2643101940899,
+                        1734325200
+                    ],
+                    [
+                        57.0250131141808,
+                        1734411600
+                    ],
+                    [
+                        56.223794369645,
+                        1734498000
+                    ],
+                    [
+                        55.6896485399545,
+                        1734584400
+                    ],
+                    [
+                        56.708482252142,
+                        1734670800
+                    ],
+                    [
+                        56.9557719881098,
+                        1734930000
+                    ],
+                    [
+                        57.1338205980066,
+                        1735016400
+                    ],
+                    [
+                        57.3712187445358,
+                        1735189200
+                    ],
+                    [
+                        57.0546878824969,
+                        1735275600
+                    ],
+                    [
+                        55.4522503934254,
+                        1735534800
+                    ],
+                    [
+                        55.9468298653611,
+                        1735621200
+                    ],
+                    [
+                        56.1743364224515,
+                        1735794000
+                    ],
+                    [
+                        56.57,
+                        1735880400
+                    ],
+                    [
+                        56.68,
+                        1736139600
+                    ],
+                    [
+                        57.14,
+                        1736226000
+                    ],
+                    [
+                        56.81,
+                        1736312400
+                    ],
+                    [
+                        55.83,
+                        1736485200
+                    ],
+                    [
+                        55.36,
+                        1736744400
+                    ],
+                    [
+                        55.74,
+                        1736830800
+                    ],
+                    [
+                        55.91,
+                        1736917200
+                    ],
+                    [
+                        56.38,
+                        1737003600
+                    ],
+                    [
+                        56.29,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 7339,
+                "drug_name": "Cyprus2+ (UX701)",
+                "clinical_trial_id": "NCT04884815",
+                "has_trial_insight_page": 0,
+                "indication": "Wilson Disease",
+                "label": "Phase 1\/2",
+                "value": "phase1.5",
+                "simplified_stage": "phase1",
+                "stageid": 4,
+                "stage_name": "Phase 1\/2",
+                "date": "2024-10-04",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/RARE\/news\/231393",
+                "note": "Phase 1\/2\/3 data reported that six of the patients have completely tapered off of standard-of-care treatment with chelators and\/or zinc therapy, and a seventh patient has begun to taper as of the data cut-off date in August, noted October 4, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 258,
+                "company_ticker": "RARE",
+                "company_name": "Ultragenyx Pharmaceutical Inc.",
+                "company_price": "40.0000",
+                "company_change": -0.85,
+                "company_percent_change": -2.08,
+                "company_optionable": 1,
+                "company_number_of_shares": 92344268,
+                "price_change_sparkline": [
+                    [
+                        47.6,
+                        1733115600
+                    ],
+                    [
+                        46.67,
+                        1733202000
+                    ],
+                    [
+                        47.11,
+                        1733288400
+                    ],
+                    [
+                        47.34,
+                        1733374800
+                    ],
+                    [
+                        49.38,
+                        1733461200
+                    ],
+                    [
+                        49.32,
+                        1733720400
+                    ],
+                    [
+                        49.09,
+                        1733806800
+                    ],
+                    [
+                        48.86,
+                        1733893200
+                    ],
+                    [
+                        46.89,
+                        1733979600
+                    ],
+                    [
+                        45.78,
+                        1734066000
+                    ],
+                    [
+                        45.4,
+                        1734325200
+                    ],
+                    [
+                        44.95,
+                        1734411600
+                    ],
+                    [
+                        42.94,
+                        1734498000
+                    ],
+                    [
+                        43.47,
+                        1734584400
+                    ],
+                    [
+                        44.22,
+                        1734670800
+                    ],
+                    [
+                        43.87,
+                        1734930000
+                    ],
+                    [
+                        43.75,
+                        1735016400
+                    ],
+                    [
+                        43.82,
+                        1735189200
+                    ],
+                    [
+                        43.42,
+                        1735275600
+                    ],
+                    [
+                        42.27,
+                        1735534800
+                    ],
+                    [
+                        42.07,
+                        1735621200
+                    ],
+                    [
+                        41.15,
+                        1735794000
+                    ],
+                    [
+                        41.5,
+                        1735880400
+                    ],
+                    [
+                        42.66,
+                        1736139600
+                    ],
+                    [
+                        44.44,
+                        1736226000
+                    ],
+                    [
+                        43.65,
+                        1736312400
+                    ],
+                    [
+                        42.07,
+                        1736485200
+                    ],
+                    [
+                        43.16,
+                        1736744400
+                    ],
+                    [
+                        40.02,
+                        1736830800
+                    ],
+                    [
+                        40.98,
+                        1736917200
+                    ],
+                    [
+                        40.85,
+                        1737003600
+                    ],
+                    [
+                        40,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 10751,
+                "drug_name": "Bradykinin B2 receptor - (CHAPTER-1)",
+                "clinical_trial_id": null,
+                "has_trial_insight_page": 0,
+                "indication": "Hereditary angioedema (HAE) attacks",
+                "label": "Phase 2",
+                "value": "phase2",
+                "simplified_stage": "phase2",
+                "stageid": 6,
+                "stage_name": "Phase 2",
+                "date": "2024-10-05",
+                "link": "https:\/\/ir.pharvaris.com\/static-files\/a0728a08-410a-45f3-a433-f6e5e8000b66",
+                "note": "Phase 2 OLE long term safety data reported that the attack rate remained low through >1.5 years. An early-onset reduction of attack rate in participants switching from placebo to deucrictibant 40 mg\/day in the OLE comparable to that in participants initiating deucrictibant in the RCT was observed, noted October 5, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 884,
+                "company_ticker": "PHVS",
+                "company_name": "Pharvaris N.V.",
+                "company_price": "18.3600",
+                "company_change": 0.91,
+                "company_percent_change": 5.21,
+                "company_optionable": 0,
+                "company_number_of_shares": 52290212,
+                "price_change_sparkline": [
+                    [
+                        19.15,
+                        1733115600
+                    ],
+                    [
+                        19.78,
+                        1733202000
+                    ],
+                    [
+                        20,
+                        1733288400
+                    ],
+                    [
+                        19.52,
+                        1733374800
+                    ],
+                    [
+                        19.07,
+                        1733461200
+                    ],
+                    [
+                        18.54,
+                        1733720400
+                    ],
+                    [
+                        18.3,
+                        1733806800
+                    ],
+                    [
+                        19.41,
+                        1733893200
+                    ],
+                    [
+                        19.02,
+                        1733979600
+                    ],
+                    [
+                        18.4,
+                        1734066000
+                    ],
+                    [
+                        18.5,
+                        1734325200
+                    ],
+                    [
+                        18.49,
+                        1734411600
+                    ],
+                    [
+                        18.5,
+                        1734498000
+                    ],
+                    [
+                        19.01,
+                        1734584400
+                    ],
+                    [
+                        19.57,
+                        1734670800
+                    ],
+                    [
+                        18.93,
+                        1734930000
+                    ],
+                    [
+                        18.83,
+                        1735016400
+                    ],
+                    [
+                        19.5,
+                        1735189200
+                    ],
+                    [
+                        19.43,
+                        1735275600
+                    ],
+                    [
+                        19.02,
+                        1735534800
+                    ],
+                    [
+                        19.17,
+                        1735621200
+                    ],
+                    [
+                        18.54,
+                        1735794000
+                    ],
+                    [
+                        18.53,
+                        1735880400
+                    ],
+                    [
+                        18.06,
+                        1736139600
+                    ],
+                    [
+                        19.23,
+                        1736226000
+                    ],
+                    [
+                        18.54,
+                        1736312400
+                    ],
+                    [
+                        17.8,
+                        1736485200
+                    ],
+                    [
+                        16.41,
+                        1736744400
+                    ],
+                    [
+                        16,
+                        1736830800
+                    ],
+                    [
+                        16.65,
+                        1736917200
+                    ],
+                    [
+                        17.45,
+                        1737003600
+                    ],
+                    [
+                        18.36,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 8647,
+                "drug_name": "Apitegromab - (SAPPHIRE)",
+                "clinical_trial_id": "NCT05156320",
+                "has_trial_insight_page": 1,
+                "indication": "Type 2 and Type 3 Spinal Muscular Atrophy (SMA)",
+                "label": "Phase 3",
+                "value": "phase3",
+                "simplified_stage": "phase3",
+                "stageid": 9,
+                "stage_name": "Phase 3",
+                "date": "2024-10-07",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/SRRK\/news\/231643",
+                "note": "Phase 3 study met its primary endpoint, demonstrating a statistically significant and clinically meaningful improvement in motor function, as measured by the Hammersmith Functional Motor Scale Expanded (HFMSE), compared to placebo, noted October 7, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 555,
+                "company_ticker": "SRRK",
+                "company_name": "Scholar Rock Holding Corporation",
+                "company_price": "43.1300",
+                "company_change": -0.77,
+                "company_percent_change": -1.75,
+                "company_optionable": 1,
+                "company_number_of_shares": 93614951,
+                "price_change_sparkline": [
+                    [
+                        37.96,
+                        1733115600
+                    ],
+                    [
+                        39.38,
+                        1733202000
+                    ],
+                    [
+                        39.77,
+                        1733288400
+                    ],
+                    [
+                        41.86,
+                        1733374800
+                    ],
+                    [
+                        43.59,
+                        1733461200
+                    ],
+                    [
+                        45.48,
+                        1733720400
+                    ],
+                    [
+                        44.52,
+                        1733806800
+                    ],
+                    [
+                        42.18,
+                        1733893200
+                    ],
+                    [
+                        41.65,
+                        1733979600
+                    ],
+                    [
+                        41.98,
+                        1734066000
+                    ],
+                    [
+                        42.87,
+                        1734325200
+                    ],
+                    [
+                        43.65,
+                        1734411600
+                    ],
+                    [
+                        41.25,
+                        1734498000
+                    ],
+                    [
+                        42.09,
+                        1734584400
+                    ],
+                    [
+                        44.78,
+                        1734670800
+                    ],
+                    [
+                        43.96,
+                        1734930000
+                    ],
+                    [
+                        45.56,
+                        1735016400
+                    ],
+                    [
+                        45.73,
+                        1735189200
+                    ],
+                    [
+                        44.46,
+                        1735275600
+                    ],
+                    [
+                        42.91,
+                        1735534800
+                    ],
+                    [
+                        43.22,
+                        1735621200
+                    ],
+                    [
+                        44.16,
+                        1735794000
+                    ],
+                    [
+                        45.17,
+                        1735880400
+                    ],
+                    [
+                        42.86,
+                        1736139600
+                    ],
+                    [
+                        40.48,
+                        1736226000
+                    ],
+                    [
+                        40.85,
+                        1736312400
+                    ],
+                    [
+                        40.49,
+                        1736485200
+                    ],
+                    [
+                        42.6,
+                        1736744400
+                    ],
+                    [
+                        41.53,
+                        1736830800
+                    ],
+                    [
+                        44.32,
+                        1736917200
+                    ],
+                    [
+                        43.9,
+                        1737003600
+                    ],
+                    [
+                        43.13,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 7494,
+                "drug_name": "UX143 (setrusumab) - (Orbit)",
+                "clinical_trial_id": null,
+                "has_trial_insight_page": 0,
+                "indication": "Osteogenesis Imperfecta",
+                "label": "Phase 2\/3",
+                "value": "phase23",
+                "simplified_stage": "phase3",
+                "stageid": 8,
+                "stage_name": "Phase 2\/3",
+                "date": "2024-10-07",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/RARE\/news\/231681",
+                "note": "Breakthrough Therapy Designation granted by the FDA, noted October 7, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 258,
+                "company_ticker": "RARE",
+                "company_name": "Ultragenyx Pharmaceutical Inc.",
+                "company_price": "40.0000",
+                "company_change": -0.85,
+                "company_percent_change": -2.08,
+                "company_optionable": 1,
+                "company_number_of_shares": 92344268,
+                "price_change_sparkline": [
+                    [
+                        47.6,
+                        1733115600
+                    ],
+                    [
+                        46.67,
+                        1733202000
+                    ],
+                    [
+                        47.11,
+                        1733288400
+                    ],
+                    [
+                        47.34,
+                        1733374800
+                    ],
+                    [
+                        49.38,
+                        1733461200
+                    ],
+                    [
+                        49.32,
+                        1733720400
+                    ],
+                    [
+                        49.09,
+                        1733806800
+                    ],
+                    [
+                        48.86,
+                        1733893200
+                    ],
+                    [
+                        46.89,
+                        1733979600
+                    ],
+                    [
+                        45.78,
+                        1734066000
+                    ],
+                    [
+                        45.4,
+                        1734325200
+                    ],
+                    [
+                        44.95,
+                        1734411600
+                    ],
+                    [
+                        42.94,
+                        1734498000
+                    ],
+                    [
+                        43.47,
+                        1734584400
+                    ],
+                    [
+                        44.22,
+                        1734670800
+                    ],
+                    [
+                        43.87,
+                        1734930000
+                    ],
+                    [
+                        43.75,
+                        1735016400
+                    ],
+                    [
+                        43.82,
+                        1735189200
+                    ],
+                    [
+                        43.42,
+                        1735275600
+                    ],
+                    [
+                        42.27,
+                        1735534800
+                    ],
+                    [
+                        42.07,
+                        1735621200
+                    ],
+                    [
+                        41.15,
+                        1735794000
+                    ],
+                    [
+                        41.5,
+                        1735880400
+                    ],
+                    [
+                        42.66,
+                        1736139600
+                    ],
+                    [
+                        44.44,
+                        1736226000
+                    ],
+                    [
+                        43.65,
+                        1736312400
+                    ],
+                    [
+                        42.07,
+                        1736485200
+                    ],
+                    [
+                        43.16,
+                        1736744400
+                    ],
+                    [
+                        40.02,
+                        1736830800
+                    ],
+                    [
+                        40.98,
+                        1736917200
+                    ],
+                    [
+                        40.85,
+                        1737003600
+                    ],
+                    [
+                        40,
+                        1737090000
+                    ]
+                ],
+                "statuses": [
+                    {
+                        "label": "Breakthrough Therapy Designation (BTD)",
+                        "abbreviation": "BTD",
+                        "description": "Breakthrough Therapy Designation (BTD)",
+                        "description_html": "<p>Breakthrough Therapy Designation (BTD)<\/p>\n"
+                    }
+                ]
+            },
+            {
+                "id": 8209,
+                "drug_name": "GT-02287, GT-02329",
+                "clinical_trial_id": null,
+                "has_trial_insight_page": 0,
+                "indication": "GBA1 and Idiopathic Parkinson's Disease",
+                "label": "Preclinical",
+                "value": "Preclinical",
+                "simplified_stage": "phase0",
+                "stageid": 17,
+                "stage_name": "Preclinical",
+                "date": "2024-10-07",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/GANX\/news\/231637",
+                "note": "Preclinical data demonstrated improvements in motor and cognitive function, which persisted even after the treatment was discontinued, suggesting a lasting neuroprotective effect, noted October 7, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 910,
+                "company_ticker": "GANX",
+                "company_name": "Gain Therapeutics Inc.",
+                "company_price": "2.2800",
+                "company_change": -0.08999999999999997,
+                "company_percent_change": -3.8,
+                "company_optionable": 1,
+                "company_number_of_shares": 26525068,
+                "price_change_sparkline": [
+                    [
+                        1.75,
+                        1733115600
+                    ],
+                    [
+                        1.585,
+                        1733202000
+                    ],
+                    [
+                        1.84,
+                        1733288400
+                    ],
+                    [
+                        1.71,
+                        1733374800
+                    ],
+                    [
+                        1.79,
+                        1733461200
+                    ],
+                    [
+                        1.83,
+                        1733720400
+                    ],
+                    [
+                        1.7,
+                        1733806800
+                    ],
+                    [
+                        1.76,
+                        1733893200
+                    ],
+                    [
+                        1.67,
+                        1733979600
+                    ],
+                    [
+                        1.63,
+                        1734066000
+                    ],
+                    [
+                        1.66,
+                        1734325200
+                    ],
+                    [
+                        1.68,
+                        1734411600
+                    ],
+                    [
+                        1.54,
+                        1734498000
+                    ],
+                    [
+                        1.57,
+                        1734584400
+                    ],
+                    [
+                        1.56,
+                        1734670800
+                    ],
+                    [
+                        1.57,
+                        1734930000
+                    ],
+                    [
+                        1.59,
+                        1735016400
+                    ],
+                    [
+                        1.6,
+                        1735189200
+                    ],
+                    [
+                        1.76,
+                        1735275600
+                    ],
+                    [
+                        2.18,
+                        1735534800
+                    ],
+                    [
+                        2.16,
+                        1735621200
+                    ],
+                    [
+                        2.32,
+                        1735794000
+                    ],
+                    [
+                        2.43,
+                        1735880400
+                    ],
+                    [
+                        2.44,
+                        1736139600
+                    ],
+                    [
+                        2.27,
+                        1736226000
+                    ],
+                    [
+                        2.44,
+                        1736312400
+                    ],
+                    [
+                        2.3,
+                        1736485200
+                    ],
+                    [
+                        2.19,
+                        1736744400
+                    ],
+                    [
+                        2.08,
+                        1736830800
+                    ],
+                    [
+                        2.14,
+                        1736917200
+                    ],
+                    [
+                        2.37,
+                        1737003600
+                    ],
+                    [
+                        2.28,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 11161,
+                "drug_name": "Ameluz (aminolevulinic acid HCI) Topical Gel - (3 tubes)",
+                "clinical_trial_id": null,
+                "has_trial_insight_page": 0,
+                "indication": "Actinic keratosis (AK)",
+                "label": "Approved",
+                "value": "approved",
+                "simplified_stage": "phase6",
+                "stageid": 15,
+                "stage_name": "Approved",
+                "date": "2024-10-07",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/BFRI\/news\/231706",
+                "note": "Approved October 7, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 1019,
+                "company_ticker": "BFRI",
+                "company_name": "Biofrontera Inc.",
+                "company_price": "1.1000",
+                "company_change": 0.03,
+                "company_percent_change": 2.8,
+                "company_optionable": 0,
+                "company_number_of_shares": 7749211,
+                "price_change_sparkline": [
+                    [
+                        1,
+                        1733115600
+                    ],
+                    [
+                        0.9361,
+                        1733202000
+                    ],
+                    [
+                        1.04,
+                        1733288400
+                    ],
+                    [
+                        1.01,
+                        1733374800
+                    ],
+                    [
+                        1,
+                        1733461200
+                    ],
+                    [
+                        1.15,
+                        1733720400
+                    ],
+                    [
+                        1.19,
+                        1733806800
+                    ],
+                    [
+                        1.19,
+                        1733893200
+                    ],
+                    [
+                        1.06,
+                        1733979600
+                    ],
+                    [
+                        1.06,
+                        1734066000
+                    ],
+                    [
+                        1.04,
+                        1734325200
+                    ],
+                    [
+                        0.9942,
+                        1734411600
+                    ],
+                    [
+                        0.9722,
+                        1734498000
+                    ],
+                    [
+                        1.02,
+                        1734584400
+                    ],
+                    [
+                        0.9785,
+                        1734670800
+                    ],
+                    [
+                        1.01,
+                        1734930000
+                    ],
+                    [
+                        1.01,
+                        1735016400
+                    ],
+                    [
+                        1.07,
+                        1735189200
+                    ],
+                    [
+                        1.11,
+                        1735275600
+                    ],
+                    [
+                        1.11,
+                        1735534800
+                    ],
+                    [
+                        1.09,
+                        1735621200
+                    ],
+                    [
+                        1.09,
+                        1735794000
+                    ],
+                    [
+                        1.12,
+                        1735880400
+                    ],
+                    [
+                        1.13,
+                        1736139600
+                    ],
+                    [
+                        1.11,
+                        1736226000
+                    ],
+                    [
+                        1.18,
+                        1736312400
+                    ],
+                    [
+                        1.12,
+                        1736485200
+                    ],
+                    [
+                        1.13,
+                        1736744400
+                    ],
+                    [
+                        1.05,
+                        1736830800
+                    ],
+                    [
+                        1,
+                        1736917200
+                    ],
+                    [
+                        1.07,
+                        1737003600
+                    ],
+                    [
+                        1.1,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 9469,
+                "drug_name": "VIP943 (anti-CD123)",
+                "clinical_trial_id": "NCT06034275",
+                "has_trial_insight_page": 0,
+                "indication": "Hematologic malignancies",
+                "label": "Phase 1",
+                "value": "phase1",
+                "simplified_stage": "phase1",
+                "stageid": 2,
+                "stage_name": "Phase 1",
+                "date": "2024-10-07",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/VINC\/news\/231799",
+                "note": "Phase 1 data demonstrated a favorable safety profile with no dose-limiting toxicities, noted October 7, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 926,
+                "company_ticker": "VINC",
+                "company_name": "Vincerx Pharma Inc.",
+                "company_price": "0.1523",
+                "company_change": 0.01,
+                "company_percent_change": 8.71,
+                "company_optionable": 0,
+                "company_number_of_shares": 33555903,
+                "price_change_sparkline": [
+                    [
+                        0.289,
+                        1733115600
+                    ],
+                    [
+                        0.26,
+                        1733202000
+                    ],
+                    [
+                        0.243,
+                        1733288400
+                    ],
+                    [
+                        0.2117,
+                        1733374800
+                    ],
+                    [
+                        0.2035,
+                        1733461200
+                    ],
+                    [
+                        0.2194,
+                        1733720400
+                    ],
+                    [
+                        0.2149,
+                        1733806800
+                    ],
+                    [
+                        0.2047,
+                        1733893200
+                    ],
+                    [
+                        0.185,
+                        1733979600
+                    ],
+                    [
+                        0.191,
+                        1734066000
+                    ],
+                    [
+                        0.1926,
+                        1734325200
+                    ],
+                    [
+                        0.192,
+                        1734411600
+                    ],
+                    [
+                        0.2169,
+                        1734498000
+                    ],
+                    [
+                        0.2068,
+                        1734584400
+                    ],
+                    [
+                        0.2071,
+                        1734670800
+                    ],
+                    [
+                        0.1978,
+                        1734930000
+                    ],
+                    [
+                        0.187,
+                        1735016400
+                    ],
+                    [
+                        0.1839,
+                        1735189200
+                    ],
+                    [
+                        0.194,
+                        1735275600
+                    ],
+                    [
+                        0.325,
+                        1735534800
+                    ],
+                    [
+                        0.2628,
+                        1735621200
+                    ],
+                    [
+                        0.2353,
+                        1735794000
+                    ],
+                    [
+                        0.2305,
+                        1735880400
+                    ],
+                    [
+                        0.2116,
+                        1736139600
+                    ],
+                    [
+                        0.207,
+                        1736226000
+                    ],
+                    [
+                        0.193,
+                        1736312400
+                    ],
+                    [
+                        0.1901,
+                        1736485200
+                    ],
+                    [
+                        0.1789,
+                        1736744400
+                    ],
+                    [
+                        0.1707,
+                        1736830800
+                    ],
+                    [
+                        0.1527,
+                        1736917200
+                    ],
+                    [
+                        0.1401,
+                        1737003600
+                    ],
+                    [
+                        0.1523,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 9215,
+                "drug_name": "BDTX-4933",
+                "clinical_trial_id": "NCT05786924",
+                "has_trial_insight_page": 0,
+                "indication": "Brain tumors harboring all-class BRAF or RAS mutations",
+                "label": "Phase 1",
+                "value": "phase1",
+                "simplified_stage": "phase1",
+                "stageid": 2,
+                "stage_name": "Phase 1",
+                "date": "2024-10-07",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/BDTX\/news\/231795",
+                "note": "Phase 1 deprioritized, looking for a partnership to continue program, noted October 7, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 737,
+                "company_ticker": "BDTX",
+                "company_name": "Black Diamond Therapeutics Inc.",
+                "company_price": "2.2000",
+                "company_change": -0.010000000000000009,
+                "company_percent_change": -0.44999999999999996,
+                "company_optionable": 1,
+                "company_number_of_shares": 56585063,
+                "price_change_sparkline": [
+                    [
+                        2.59,
+                        1733115600
+                    ],
+                    [
+                        2.47,
+                        1733202000
+                    ],
+                    [
+                        2.46,
+                        1733288400
+                    ],
+                    [
+                        2.35,
+                        1733374800
+                    ],
+                    [
+                        2.41,
+                        1733461200
+                    ],
+                    [
+                        2.39,
+                        1733720400
+                    ],
+                    [
+                        2.44,
+                        1733806800
+                    ],
+                    [
+                        2.52,
+                        1733893200
+                    ],
+                    [
+                        2.5,
+                        1733979600
+                    ],
+                    [
+                        2.56,
+                        1734066000
+                    ],
+                    [
+                        2.64,
+                        1734325200
+                    ],
+                    [
+                        2.5,
+                        1734411600
+                    ],
+                    [
+                        2.34,
+                        1734498000
+                    ],
+                    [
+                        2.19,
+                        1734584400
+                    ],
+                    [
+                        2.22,
+                        1734670800
+                    ],
+                    [
+                        2.19,
+                        1734930000
+                    ],
+                    [
+                        2.19,
+                        1735016400
+                    ],
+                    [
+                        2.3,
+                        1735189200
+                    ],
+                    [
+                        2.19,
+                        1735275600
+                    ],
+                    [
+                        2.15,
+                        1735534800
+                    ],
+                    [
+                        2.14,
+                        1735621200
+                    ],
+                    [
+                        2.14,
+                        1735794000
+                    ],
+                    [
+                        2.2,
+                        1735880400
+                    ],
+                    [
+                        2.13,
+                        1736139600
+                    ],
+                    [
+                        2.12,
+                        1736226000
+                    ],
+                    [
+                        2.03,
+                        1736312400
+                    ],
+                    [
+                        1.93,
+                        1736485200
+                    ],
+                    [
+                        2.31,
+                        1736744400
+                    ],
+                    [
+                        2.25,
+                        1736830800
+                    ],
+                    [
+                        2.11,
+                        1736917200
+                    ],
+                    [
+                        2.21,
+                        1737003600
+                    ],
+                    [
+                        2.2,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 11340,
+                "drug_name": "KRRO-110 - (REWRITE)",
+                "clinical_trial_id": "NCT06677307",
+                "has_trial_insight_page": 0,
+                "indication": "Alpha-1 Antitrypsin Deficiency (AATD)",
+                "label": "Preclinical",
+                "value": "Preclinical",
+                "simplified_stage": "phase0",
+                "stageid": 17,
+                "stage_name": "Preclinical",
+                "date": "2024-10-07",
+                "link": "https:\/\/ir.korrobio.com\/static-files\/12d86827-2564-4b2c-84a4-5b5931526fc3",
+                "note": "Preclinical data from the Oligonucleotide Therapeutics Society reported that treatment achieved AAT levels between MM and MZ in rodents as early as Week 1,  noted October 7, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 2307,
+                "company_ticker": "KRRO",
+                "company_name": "Korro Bio Inc.",
+                "company_price": "37.0000",
+                "company_change": 0.02,
+                "company_percent_change": 0.05,
+                "company_optionable": 0,
+                "company_number_of_shares": 9368262,
+                "price_change_sparkline": [
+                    [
+                        53.5,
+                        1733115600
+                    ],
+                    [
+                        47.51,
+                        1733202000
+                    ],
+                    [
+                        38.61,
+                        1733288400
+                    ],
+                    [
+                        39.12,
+                        1733374800
+                    ],
+                    [
+                        42.58,
+                        1733461200
+                    ],
+                    [
+                        47.49,
+                        1733720400
+                    ],
+                    [
+                        46.75,
+                        1733806800
+                    ],
+                    [
+                        48.69,
+                        1733893200
+                    ],
+                    [
+                        43.96,
+                        1733979600
+                    ],
+                    [
+                        46.88,
+                        1734066000
+                    ],
+                    [
+                        48.16,
+                        1734325200
+                    ],
+                    [
+                        49.76,
+                        1734411600
+                    ],
+                    [
+                        44.46,
+                        1734498000
+                    ],
+                    [
+                        43.12,
+                        1734584400
+                    ],
+                    [
+                        43.67,
+                        1734670800
+                    ],
+                    [
+                        43.29,
+                        1734930000
+                    ],
+                    [
+                        43.3,
+                        1735016400
+                    ],
+                    [
+                        41.2,
+                        1735189200
+                    ],
+                    [
+                        40,
+                        1735275600
+                    ],
+                    [
+                        38.11,
+                        1735534800
+                    ],
+                    [
+                        38.07,
+                        1735621200
+                    ],
+                    [
+                        41.02,
+                        1735794000
+                    ],
+                    [
+                        42.84,
+                        1735880400
+                    ],
+                    [
+                        41.36,
+                        1736139600
+                    ],
+                    [
+                        38.37,
+                        1736226000
+                    ],
+                    [
+                        37.62,
+                        1736312400
+                    ],
+                    [
+                        35.26,
+                        1736485200
+                    ],
+                    [
+                        38.15,
+                        1736744400
+                    ],
+                    [
+                        37.01,
+                        1736830800
+                    ],
+                    [
+                        37.34,
+                        1736917200
+                    ],
+                    [
+                        36.98,
+                        1737003600
+                    ],
+                    [
+                        37,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            },
+            {
+                "id": 11893,
+                "drug_name": "Airsupra (albuterol\/budesonide)",
+                "clinical_trial_id": null,
+                "has_trial_insight_page": 0,
+                "indication": "Severe exacerbations in patients with intermittent or mild persistent asthma",
+                "label": "Phase 3",
+                "value": "phase3",
+                "simplified_stage": "phase3",
+                "stageid": 9,
+                "stage_name": "Phase 3",
+                "date": "2024-10-07",
+                "link": "https:\/\/www.biopharmcatalyst.com\/company\/AZN\/news\/231644",
+                "note": "Phase 3 trial met primary endpoint, noted October 7, 2024.",
+                "conference_name": null,
+                "conference_start_date": null,
+                "conference_end_date": null,
+                "conference_link": null,
+                "conference_acronym": null,
+                "conference_id": null,
+                "company_entity_id": 374,
+                "company_ticker": "AZN",
+                "company_name": "AstraZeneca PLC",
+                "company_price": "66.6000",
+                "company_change": -0.31000000000000005,
+                "company_percent_change": -0.45999999999999996,
+                "company_optionable": 1,
+                "company_number_of_shares": 3101092478,
+                "price_change_sparkline": [
+                    [
+                        67.04,
+                        1733115600
+                    ],
+                    [
+                        68.05,
+                        1733202000
+                    ],
+                    [
+                        66.78,
+                        1733288400
+                    ],
+                    [
+                        67.53,
+                        1733374800
+                    ],
+                    [
+                        68.2,
+                        1733461200
+                    ],
+                    [
+                        68.58,
+                        1733720400
+                    ],
+                    [
+                        67.18,
+                        1733806800
+                    ],
+                    [
+                        67.4,
+                        1733893200
+                    ],
+                    [
+                        66.94,
+                        1733979600
+                    ],
+                    [
+                        66.58,
+                        1734066000
+                    ],
+                    [
+                        66.23,
+                        1734325200
+                    ],
+                    [
+                        67.18,
+                        1734411600
+                    ],
+                    [
+                        64.64,
+                        1734498000
+                    ],
+                    [
+                        64.44,
+                        1734584400
+                    ],
+                    [
+                        65.35,
+                        1734670800
+                    ],
+                    [
+                        66.63,
+                        1734930000
+                    ],
+                    [
+                        66.3,
+                        1735016400
+                    ],
+                    [
+                        66.52,
+                        1735189200
+                    ],
+                    [
+                        66.26,
+                        1735275600
+                    ],
+                    [
+                        65.57,
+                        1735534800
+                    ],
+                    [
+                        65.52,
+                        1735621200
+                    ],
+                    [
+                        65.88,
+                        1735794000
+                    ],
+                    [
+                        66.25,
+                        1735880400
+                    ],
+                    [
+                        66.84,
+                        1736139600
+                    ],
+                    [
+                        66.64,
+                        1736226000
+                    ],
+                    [
+                        66.58,
+                        1736312400
+                    ],
+                    [
+                        67.01,
+                        1736485200
+                    ],
+                    [
+                        65.73,
+                        1736744400
+                    ],
+                    [
+                        65.37,
+                        1736830800
+                    ],
+                    [
+                        65.68,
+                        1736917200
+                    ],
+                    [
+                        66.91,
+                        1737003600
+                    ],
+                    [
+                        66.6,
+                        1737090000
+                    ]
+                ],
+                "statuses": []
+            }
+        ],
+        "first_page_url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=1",
+        "from": 1,
+        "last_page": 35,
+        "last_page_url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=35",
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=5",
+                "label": "5",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=6",
+                "label": "6",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=7",
+                "label": "7",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=8",
+                "label": "8",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=9",
+                "label": "9",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=10",
+                "label": "10",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=34",
+                "label": "34",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=35",
+                "label": "35",
+                "active": false
+            },
+            {
+                "url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=2",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar?page=2",
+        "path": "https:\/\/www.biopharmcatalyst.com\/api\/historical-catalysts-calendar",
+        "per_page": 24,
+        "prev_page_url": null,
+        "to": 24,
+        "total": 824
+    },
+    "direction": "ASC",
+    "column": ""
+}
