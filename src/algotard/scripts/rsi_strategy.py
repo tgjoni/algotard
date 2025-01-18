@@ -55,11 +55,11 @@ def run():
             logger.success("RSI below! Sending alert . . .")
             send_email("RSI below 30!", f"RSI below 30 for {ticker}")
         else:
-            logger.info("Strategy not triggered!")
+            logger.info(f"Skipping {ticker}, RSI: {df['rsi'].iloc[-1]}")
 
 
 if __name__ == "__main__":
     while True:
         logger.info("Checking Strategy 1 . . .")
         run()
-        time.sleep(300)
+        time.sleep(1800)
